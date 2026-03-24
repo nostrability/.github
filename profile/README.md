@@ -20,7 +20,7 @@ Tracking NIP adoption and interoperability across the nostr ecosystem.
 ## Resources
 
 - [NIPs](https://github.com/nostr-protocol/nips/) — Nostr Implementation Possibilities (protocol specs)
-- [NostHub](https://nostrhub.io/) — Community NIP extensions and proposals
+- [NostrHub](https://nostrhub.io/) — Community NIP extensions and proposals
 - [Blossom](https://github.com/hzrd149/blossom) — Blobs stored simply on mediaservers
 - [Marmot](https://github.com/marmot-protocol/marmot) — Marmot protocol
 - [nostrapps.com](https://nostrapps.com) — Directory of nostr applications
