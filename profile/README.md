@@ -15,7 +15,7 @@ Tracking NIP adoption and interoperability across the nostr ecosystem.
 
 | Repo | Description |
 |------|-------------|
-| [nostrability](https://github.com/nostrability/nostrability) | NIP support tracker tables and the dashboard |
+| [nostrability](https://github.com/nostrability/nostrability) | Interoperability tracker — NIP adoption tables, broken interaction reports, and the dashboard |
 | [release-tracker](https://github.com/nostrability/release-tracker) | Automated release monitoring for the nostr ecosystem |
 | [schemata](https://github.com/nostrability/schemata) | Language-agnostic JSON schemas for nostr event validation |
 
