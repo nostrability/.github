@@ -13,13 +13,14 @@ Tracking interoperability across the nostr ecosystem.
 - **Schemata codegen** similar to above but without need for json validators
 - **Sherlock** Deducing which  apps post broken stuff to relays
 
-## Repos
+## Key Repos
 
 | Repo | Description |
 |------|-------------|
-| [nostrability](https://github.com/nostrability/nostrability) | Interoperability tracker — NIP adoption tables, broken interaction reports, and the dashboard |
-| [release-tracker](https://github.com/nostrability/release-tracker) | Automated release monitoring for the nostr ecosystem |
+| [nostrability](https://github.com/nostrability/nostrability) | Interoperability tracker. Includes NIP adoption tables, broken interop reports, and dashboard |
+|  https://github.com/nostrability/schemata-codegen| codegen|
 | [schemata](https://github.com/nostrability/schemata) | Language-agnostic JSON schemas for nostr event validation |
+|sherlock|deducing which apps post broken stuff|
 
 ### Schemata — language packages
 
