@@ -18,7 +18,7 @@ Tracking interoperability across the nostr ecosystem.
 | Repo | Description |
 |------|-------------|
 | [nostrability](https://github.com/nostrability/nostrability) | Interoperability tracker. Includes NIP adoption tables, broken interop reports, and dashboard |
-|  https://github.com/nostrability/schemata-codegen| codegen|
+|  https://github.com/nostrability/schemata-codegen| typed language constructs that enable the compiler to catch structural mistakes like wrong position, missing field, bad marker value|
 | [schemata](https://github.com/nostrability/schemata) | Language-agnostic JSON schemas for nostr event validation |
 |sherlock|deducing which apps post broken stuff|
 
