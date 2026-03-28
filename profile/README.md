@@ -8,19 +8,20 @@ Tracking interoperability across the nostr ecosystem.
 
 - **Positive interop** stuff that works together (e.g. across mutually adopted NIP/kind)
 - **Negative interop** where apps break when talking to each other (DMs, zaps, relay lists, etc.)
-- **Releases** automated daily scanning of nostr repos for new releases
 - **Schema & schema validators** validating nostr events against NIP/kind definitions using JSON Schema
 - **Schemata codegen** similar to above but without need for json validators
 - **Sherlock** Deducing which  apps post broken stuff to relays
+- **Releases** automated daily scanning of nostr repos for new releases
 
 ## Key Repos
 
 | Repo | Description |
 |------|-------------|
-| [nostrability](https://github.com/nostrability/nostrability) | Interoperability tracker. Includes NIP adoption tables, broken interop reports, and dashboard |
+| [nostrability](https://github.com/nostrability/nostrability) | Interoperability tracker. Includes NIP adoption tables, broken interop reports etc. |
+| [nostrability web dashboard](https://nostrability.github.io/nostrability/) | the above, rendered |
 | [schemata](https://github.com/nostrability/schemata) | Language-agnostic JSON schemas for nostr event validation |
-|https://github.com/nostrability/sherlock|deducing which apps post broken stuff|
-|  https://github.com/nostrability/schemata-codegen| typed language constructs that enable the compiler to catch structural mistakes like wrong position, missing field, bad marker value|
+| [sherlock](https://github.com/nostrability/sherlock) |deducing which apps post broken stuff|
+| [schemata-codegen](https://github.com/nostrability/schemata-codegen)| typed language constructs that enable the compiler to catch structural mistakes like wrong position, missing field, bad marker value|
 
 ### Schemata — language packages
 
