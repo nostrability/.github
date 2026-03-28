@@ -1,15 +1,17 @@
 # nostrability
 
-Tracking NIP adoption and interoperability across the nostr ecosystem.
+Tracking interoperability across the nostr ecosystem.
 
 **[nostrability.github.io/nostrability](https://nostrability.github.io/nostrability/)** — NIP support tracker with per-app compatibility tables
 
-## What we track
+## What is nostrability
 
-- **NIP adoption** — which apps support which NIPs, verified against code and releases
-- **Interoperability issues** — where apps break when talking to each other (DMs, zaps, relay lists, etc.)
-- **Releases** — automated daily scanning of 100+ nostr repos for new releases
-- **Schema conformance** — validating nostr events against NIP/kind definitions using JSON Schema
+- **Positive interop** stuff that works together (e.g. across mutually adopted NIP/kind)
+- **Negative interop** where apps break when talking to each other (DMs, zaps, relay lists, etc.)
+- **Releases** automated daily scanning of nostr repos for new releases
+- **Schema & schema validators** validating nostr events against NIP/kind definitions using JSON Schema
+- **Schemata codegen** similar to above but without need for json validators
+- **Sherlock** Deducing which  apps post broken stuff to relays
 
 ## Repos
 
