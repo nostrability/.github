@@ -38,7 +38,7 @@ Data packages embed the schemas; validator packages provide `validate()` helpers
 | Java | [schemata-java](https://github.com/nostrability/schemata-java) | [schemata-validator-java](https://github.com/nostrability/schemata-validator-java) |
 | PHP | [schemata-php](https://github.com/nostrability/schemata-php) | [schemata-validator-php](https://github.com/nostrability/schemata-validator-php) |
 | Ruby | [schemata-ruby](https://github.com/nostrability/schemata-ruby) | [schemata-validator-ruby](https://github.com/nostrability/schemata-validator-ruby) |
-| C | [schemata-c](https://github.com/nostrability/schemata-c) | [schemata-validator-c](https://github.com/nostrability/jsonc-daccord) |
+| C | [schemata-c](https://github.com/nostrability/schemata-c) | [jsonc-daccord(nostrability fork)](https://github.com/nostrability/jsonc-daccord) |
 | C# | [schemata-csharp](https://github.com/nostrability/schemata-csharp) | [schemata-validator-csharp](https://github.com/nostrability/schemata-validator-csharp) |
 | C++ | [schemata-cpp](https://github.com/nostrability/schemata-cpp) | [schemata-validator-cpp](https://github.com/nostrability/schemata-validator-cpp) |
 
